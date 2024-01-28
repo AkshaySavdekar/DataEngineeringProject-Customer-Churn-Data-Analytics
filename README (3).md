@@ -4,9 +4,7 @@
 Created End to End DataPipeline from S3 Bucket.Created & Run the Glue Crawler to generate Glue Catalog. We can run sql query over glue catalog directly using Athena.We can create a DataWarehouse by connecting the Redshift Cluster with Glue Catalog.Airflow is used to schedule the Dag. The Visualization can be done using PowerBI.
 
 ## Architecture
-
-
-
+![image](https://github.com/AkshaySavdekar/DataEngineeringProject-Customer-Churn-Data-Analytics/assets/119107773/941118d3-cc8c-4a70-8e92-02ebd028f0fb)
 
 ## Tech Stack
 
